@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "nombreDePlato": "Carpaccio fresco",
+        "descripcion":"Entrada Carpaccio de salmon con cítricos",
+        "precio":"U$S 65.50",
+        "img":"Carpaccio-de-salmon.jpg" 
+    },
+    {
+        "id":2,
+        "nombreDePlato": "Risotto de berenjena",
+        "descripcion":"Risotto de berenjena y queso de cabra",
+        "precio":"U$S 47.00",
+        "img":"Risotto-berenjena-queso-cabra.jpg" 
+    },
+    {
+        "id":3,
+        "nombreDePlato": "Mousse de arroz",
+        "descripcion":"Mousse de arroz con leche y aroma de azahar",
+        "precio":"U$S 27.50",
+        "img":"Mousse-de-arroz-con-leche.jpg"  
+    },
+    {
+        "id":4,
+        "nombreDePlato": "Espárragos blancos",
+        "descripcion":"Espárragos blancos con vinagreta de verduras y jamón ibérico",
+        "precio":"U$S37.50",
+        "img":"esparragos.png"  
+    }
+]
